@@ -41,3 +41,7 @@ let nums1 = [1, 2, 3, 0, 0, 0],
   n = 3;
 merge(nums1, m, nums2, n);
 console.log(nums1);
+
+
+//link
+//https://leetcode.com/problems/merge-sorted-array/description/?envType=problem-list-v2&envId=array
