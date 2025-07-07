@@ -30,3 +30,6 @@ var missingNumber = function(nums) {
 //test
 let nums=[3,0,1];
 console.log(missingNumber(nums));
+
+//link
+//https://leetcode.com/problems/missing-number/description/
